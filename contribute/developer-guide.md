@@ -42,6 +42,12 @@ Grafana consists of two components; the _frontend_, and the _backend_.
 
 ### Frontend
 
+navigate to the grafana install by:
+
+```
+cd ~/grafana
+```
+
 Before we can build the frontend assets, we need to install the dependencies:
 
 ```
